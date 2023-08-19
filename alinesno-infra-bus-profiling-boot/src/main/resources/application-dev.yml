@@ -1,0 +1,10 @@
+server:
+  port: 30502
+
+# spring 配置
+spring:
+  application:
+    name: alinesno-infra-bus-profiling-boot
+  devtools:
+    restart:
+      enabled: true
