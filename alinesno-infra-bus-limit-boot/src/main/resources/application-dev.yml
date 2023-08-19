@@ -1,0 +1,10 @@
+server:
+  port: 30500
+
+# spring 配置
+spring:
+  application:
+    name: alinesno-infra-bus-limit-boot
+  devtools:
+    restart:
+      enabled: true
