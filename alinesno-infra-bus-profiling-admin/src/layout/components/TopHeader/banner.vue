@@ -9,10 +9,7 @@
       </a>
       <div v-if="saasUrl" class="dashboard-home" @click="dashboardHome()">
         <i class="fa-solid fa-house"></i> 工作台
-      </div>
-      <div class="dashboard-home" @click="choiceCurrentApplication()">
-        <i class="fa-solid fa-truck-fast"></i> 请选择当前集群
-      </div>
+      </div> 
     </router-link>
   </div>
 </template>
