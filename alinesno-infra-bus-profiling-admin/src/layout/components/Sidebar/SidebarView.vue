@@ -11,7 +11,7 @@
 export default {
   data () {
     return {
-      currentApplicationName: '实时画像服务'
+      currentApplicationName: '用户行为画像服务'
     }
   },
   mounted () {

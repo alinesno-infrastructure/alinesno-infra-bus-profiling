@@ -129,7 +129,7 @@ const productList = [
                 "hasInner": 0,
                 "linkPath": "http://alinesno-gateway.beta.linesno.com",
                 "prodStatus": "normal",
-                "name": "实时画像服务",
+                "name": "用户行为画像服务",
                 "id": "053b9e440df2d3a2ddfc714b206c9731"
             },
             {

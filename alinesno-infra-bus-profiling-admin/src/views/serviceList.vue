@@ -430,7 +430,7 @@ const productList = ref([
                     "hasInner": 0,
                     "linkPath": "http://alinesno-infra-ops-container-admin.beta.base.infra.linesno.com",
                     "prodStatus": "normal",
-                    "name": "实时画像服务",
+                    "name": "用户行为画像服务",
                     "id": "c6fca12e348cccf97495b3aea33adcef",
                     "desc": "alinesno-infra-ops-container"
                 },
@@ -469,7 +469,7 @@ const productList = ref([
                     "hasInner": 0,
                     "linkPath": "http://alinesno-infra-smart-brain-admin.beta.smart.infra.linesno.com",
                     "prodStatus": "normal",
-                    "name": "实时画像服务",
+                    "name": "用户行为画像服务",
                     "id": "c6fca12e348cccf97495b3aea33adcef",
                     "desc": "alinesno-infra-bus-profiling"
                 },

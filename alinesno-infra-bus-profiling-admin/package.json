@@ -1,7 +1,7 @@
 {
   "name": "alinesno-infra-bus-profiling-admin",
   "version": "1.0.0",
-  "description": "实时画像服务",
+  "description": "用户行为画像服务",
   "author": "LuoXiaoDong",
   "license": "Apache-2.0",
   "scripts": {
