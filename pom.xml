@@ -25,12 +25,12 @@
         <module>alinesno-infra-bus-profiling-facade</module>  <!-- 接口和引用 -->
         <module>alinesno-infra-bus-profiling-domain</module>  <!-- 领域服务 -->
         <module>alinesno-infra-bus-profiling-adapter</module> <!-- 适配层 -->
-        <module>alinesno-infra-bus-profiling-api</module>  <!-- 接口服务 -->
+        <module>alinesno-infra-bus-profiling-gateway</module>  <!-- 接口服务 -->
         <module>alinesno-infra-bus-profiling-client</module>  <!-- 对外引用 -->
         <module>alinesno-infra-bus-profiling-boot</module>  <!-- 启动服务 -->
 
         <!-- 前端服务
-        <module>alinesno-infra-bus-profiling-admin</module>
+        <module>alinesno-infra-bus-profiling-ui</module>
         -->
     </modules>
 

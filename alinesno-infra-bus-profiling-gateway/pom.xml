@@ -10,7 +10,7 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<artifactId>alinesno-infra-bus-profiling-api</artifactId>
+	<artifactId>alinesno-infra-bus-profiling-gateway</artifactId>
 	<packaging>jar</packaging>
 
 	<dependencies>
